@@ -1,2 +1,1 @@
-# PipelineDemo
-pipeline para demo jenkins
+# simple-java-maven-app
